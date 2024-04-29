@@ -1,0 +1,4 @@
+os
+flask 
+pillow
+google-generativeai
